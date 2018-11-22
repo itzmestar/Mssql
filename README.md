@@ -1,2 +1,2 @@
 # Mssql
-Run a stored procedure on mssql
+Run a stored procedure on mssql database
